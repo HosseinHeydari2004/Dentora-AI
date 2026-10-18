@@ -55,9 +55,6 @@ Dataset selection, annotation quality, patient-level data splitting, and licensi
 
 The initial phase focuses on problem definition, dataset validation, baseline development, and evaluation protocol design. Features will be marked as implemented only after they have been developed and tested.
 
-## Medical Disclaimer
-
-This project is intended for research and engineering purposes. Model outputs are experimental and are not a substitute for professional dental examination or clinical diagnosis. Clinical use requires appropriate validation, specialist oversight, and compliance with applicable regulations.
 
 ## License
 
